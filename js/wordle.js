@@ -17,7 +17,7 @@ function appStart() {
     const div = document.createElement("div");
     div.innerText = "게임이 종료됐습니다.";
     div.style =
-      "display:flex; justify-content:center; align-items:center; position:absolute; top:40vh; left:35vw; background-color:white; width:300px; height:300px;";
+      "display:flex; justify-content:center; align-items:center; position:absolute; top:30vh; left:40.5vw; background-color:red; width:300px; height:300px; font-size:large; font-weight:bold;";
     document.body.appendChild(div);
   };
 

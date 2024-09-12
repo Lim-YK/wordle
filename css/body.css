@@ -1,0 +1,13 @@
+body {
+  background-color: rgb(203, 235, 255);
+  padding: 10px 0 10px 0;
+}
+
+.main-name {
+  font-weight: bold;
+  font-size: 60px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 10px;
+}

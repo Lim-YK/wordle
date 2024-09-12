@@ -50,3 +50,7 @@ footer {
 .footer-block_BackSpace img {
   width: 30px;
 }
+
+.pressed {
+  background-color: darkgray;
+}
